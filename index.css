@@ -49,7 +49,7 @@
 @import url(./blocks/comments-plague/comments-plague.css);
 @import url(./blocks/comments-plague/__text/comments-plague__text.css);
 @import url(./blocks/comments/comments.css);
-@import url(/blocks/comments/__element/comments__element.css);
+@import url(./blocks/comments/__element/comments__element.css);
 @import url(./blocks/comments/__avatar/comments__avatar.css);
 @import url(./blocks/comments/__name/comments__name.css);
 @import url(./blocks/comments/__time/comments__time.css);
