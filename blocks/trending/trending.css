@@ -1,0 +1,8 @@
+.trending {
+  width: 100%;
+  min-height: 346px;
+  display: flex;
+  flex-direction: column;
+  background: url(../../images/Colbert.png);
+  background-repeat: no-repeat;
+}

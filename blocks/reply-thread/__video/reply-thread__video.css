@@ -1,0 +1,32 @@
+.reply-thread__video {
+  min-height: 285px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background: #eff7f8;
+}
+.reply-thread__video-title {
+  width: 80%;
+  font-family: 'Brandon Grotesque' , Arial, sans-serif;
+  font-size: 12px;
+  font-weight: bold;
+  line-height: 44px;
+  color: #c0cccc;
+  background: #fff;
+  text-indent: 10px;
+  margin: auto 0 0 0 ;
+}
+.reply-thread__video-image {
+  width: 80%;
+  object-fit: cover;
+}
+.reply-thread__video-date {
+  width: 80%;
+  font-family: 'Brandon Grotesque' , Arial, sans-serif;
+  font-size: 12px;
+  font-weight: bold;
+  color: #7d9999;
+  margin: 10px 0 auto 0;
+}

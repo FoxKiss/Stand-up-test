@@ -1,0 +1,12 @@
+.list-button {
+  background: url(../../images/list.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  margin: 0 0 0 60px;
+}
+.tiles-button {
+  background: url(../../images/tiles.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  margin: 0 0 0 20px;
+}

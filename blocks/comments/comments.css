@@ -1,0 +1,10 @@
+.comments {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  list-style: none;
+  color: #fff;
+  background: #191e23;
+  margin: 0;
+  padding: 20px 0 0 0 ;
+}

@@ -1,0 +1,20 @@
+.profile__button {
+  min-height: 60px;
+  max-width: 23px;
+  width: 100%;
+  outline: none;
+  border: none;
+  padding: 0;
+}
+
+.profile__button-bell {
+  background: url(../../../images/notifications.png);
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.profile__button-box {
+  background: url(../../../images/collections.png);
+  background-repeat: no-repeat;
+  background-position: center;    
+}

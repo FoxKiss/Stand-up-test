@@ -1,0 +1,15 @@
+.new-video {
+  position: absolute;
+  top: 35px;
+  left: 25px;
+  max-width: 89px;
+  width: 100%;
+  font-family: 'Brandon Grotesque' , Arial, sans-serif;
+  font-size: 12px;
+  font-weight: bold;
+  line-height: 25px;
+  background: #3f8d96;
+  color: #fff;
+  text-align: center;
+  margin: 0;
+}

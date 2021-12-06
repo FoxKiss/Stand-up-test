@@ -1,0 +1,26 @@
+.reply-thread__plague {
+  width: 100%;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  background: #cbe6e6;
+}
+.reply-thread__plague-text {
+  font-family: 'Brandon Grotesque' , Arial, sans-serif;
+  font-size: 12px;
+  line-height: 60px;
+  color: #5e7777;
+  margin: 0;
+}
+.reply-thread__plague-button {
+  max-width: 23px;
+  min-height: 23px;
+  width: 100%;
+  outline: none;
+  border: none;
+  background: url(../../../images/back.png);
+  background-repeat: no-repeat;
+  cursor: pointer;
+  margin: 0 0 0 10px;
+  padding: 0;
+}

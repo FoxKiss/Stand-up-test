@@ -1,0 +1,10 @@
+.trending__description {
+  min-height: 180px;
+  max-width: 270px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;  
+  color: #fff;
+  margin: 55px 0 0 48px;
+}

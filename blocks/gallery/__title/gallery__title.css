@@ -1,0 +1,11 @@
+.gallery__title {
+  max-width: 90%;
+  width: 100%;
+  font-family: 'Brandon Grotesque' , Arial, sans-serif;
+  font-size: 12px;
+  font-weight: bold;
+  letter-spacing: 0.6px;
+  color: #7A7A7A;
+  text-align: start;
+  margin: 5px 0 0 0;
+}

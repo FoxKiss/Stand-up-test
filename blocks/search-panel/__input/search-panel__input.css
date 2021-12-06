@@ -1,0 +1,11 @@
+.search-panel__input {
+  min-height: 29px;
+  max-width: 216px;
+  width: 100%;
+  background: rgba(0, 0, 0, 0.0001);
+  border: 1px solid #C5C5C5;
+  border-radius: 30px;
+  outline: none;
+  padding: 0;
+  margin: 0 0 0 48px;
+}

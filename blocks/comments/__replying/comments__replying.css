@@ -1,0 +1,20 @@
+.comments__replying {
+  font-family: 'Brandon Grotesque' , Arial, sans-serif;
+  font-size: 15px;
+  font-weight: normal;
+  letter-spacing: 1.5px;
+  color: #aab5b5;
+  margin: 20px 0 0 15px;
+}
+.comments__replying-span {
+  color: #3bb4bc;
+}
+
+.comments__replying-typing {
+  font-family: 'Brandon Grotesque' , Arial, sans-serif;
+  font-size: 15px;
+  font-weight: normal;
+  letter-spacing: 1.5px;
+  color: #aab5b5;
+  margin: 20px 0 0 15px;
+}

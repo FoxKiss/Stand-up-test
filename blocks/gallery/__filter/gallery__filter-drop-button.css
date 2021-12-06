@@ -1,0 +1,12 @@
+.gallery__filter-drop-button {
+  max-width: 10px;
+  width: 100%;
+  min-height: 10px;
+  outline: none;
+  border: none;
+  padding: 0;
+  background: url(../../../images/dropdown.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  margin: 0 60px 0 10px;
+}

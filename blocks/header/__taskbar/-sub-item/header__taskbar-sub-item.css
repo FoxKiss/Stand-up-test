@@ -1,0 +1,12 @@
+.header__taskbar-sub-item {
+  width: 100%;
+  font-family: 'Brandon Grotesque' , Arial, sans-serif;
+  font-size: 12px;
+  font-weight: bold;
+  letter-spacing: 1.3px;
+  line-height: 50px;
+  color: #37434b;
+  cursor: pointer;
+  background: #0e1214;
+  border-bottom:1px solid #000 ;
+}

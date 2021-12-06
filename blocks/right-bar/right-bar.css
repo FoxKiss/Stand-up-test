@@ -1,0 +1,8 @@
+.right-bar {
+  position: relative;
+  max-width: 298px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  background: #191e23;
+}
